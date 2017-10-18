@@ -1,0 +1,12 @@
+{
+  "ID": "BD7D848AC30548B7BEB4C841FA67D75F",
+  "ActionKeyword": "mf",
+  "Name": "My Feed Reader",
+  "Description": "A plugin to help us read rss feed",
+  "Author": "Hung Vo",
+  "Version": "1.0.1",
+  "Language": "csharp",
+  "Website": "",
+  "IcoPath": "Images\\plugin.png",
+  "ExecuteFileName": "Wox.Plugin.MyFeedReader.dll"
+}

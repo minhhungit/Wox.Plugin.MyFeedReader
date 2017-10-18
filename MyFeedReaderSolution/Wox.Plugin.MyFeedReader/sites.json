@@ -1,0 +1,54 @@
+﻿[
+  {
+    "SubItems": null,
+    "Name": "Tuoi Tre Online",
+    "Url": "http://tuoitre.vn/",
+    "Description": null,
+    "IconPath": "Images\\site-icons\\tto_vn.png",
+    "CommandKey": "tuoitre",
+    "RssUrl": "http://tuoitre.vn/rss/tin-moi-nhat.rss"
+  },
+  {
+    "SubItems": [
+      {
+        "Name": "Thời Sự",
+        "Url": "https://news.zing.vn/thoi-su.html",
+        "Description": null,
+        "IconPath": "Images\\site-icons\\zingnews.png",
+        "CommandKey": "thoisu",
+        "RssUrl": "https://news.zing.vn/rss/thoi-su.rss"
+      },
+      {
+        "Name": "Thế Giới",
+        "Url": "https://news.zing.vn/the-gioi.html",
+        "Description": null,
+        "IconPath": "Images\\site-icons\\zingnews.png",
+        "CommandKey": "thegioi",
+        "RssUrl": "https://news.zing.vn/rss/the-gioi.rss"
+      },
+      {
+        "Name": "Kinh Doanh",
+        "Url": "https://news.zing.vn/kinh-doanh-tai-chinh.html",
+        "Description": null,
+        "IconPath": "Images\\site-icons\\zingnews.png",
+        "CommandKey": "kinhdoanh",
+        "RssUrl": "https://news.zing.vn/rss/kinh-doanh-tai-chinh.rss"
+      }
+    ],
+    "Name": "Zing News",
+    "Url": "https://news.zing.vn/",
+    "Description": "",
+    "IconPath": "Images\\site-icons\\zingnews.png",
+    "CommandKey": "zing",
+    "RssUrl": "https://news.zing.vn/rss/trang-chu.rss"
+  },
+  {
+    "SubItems": null,
+    "Name": "Tinh Tế",
+    "Url": "https://tinhte.vn",
+    "Description": "Diễn đàn công nghệ",
+    "IconPath": "Images\\site-icons\\tinhte.png",
+    "CommandKey": "tinhte",
+    "RssUrl": "https://tinhte.vn/rss"
+  }
+]
